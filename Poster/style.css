@@ -1,0 +1,38 @@
+/* General Body Styles */
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Centered Poster Container */
+  .poster {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* Motivation Image Styling */
+  .motivation-img {
+    width: 100%;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Text Styles */
+  h1 {
+    text-transform: uppercase;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1.2em;
+    margin: 0;
+  }
